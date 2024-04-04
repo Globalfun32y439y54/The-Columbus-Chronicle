@@ -1,5 +1,5 @@
-# [The-Columbus-Chronicle] (the-columbus-chronicle.pages.dev)
+# The-Columbus-Chronicle 
 A daily newsletter for Ohio.
 
 Our Site Like:
-the-columbus-chronicle.pages.dev
+[Link](the-columbus-chronicle.pages.dev)
