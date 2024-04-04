@@ -2,4 +2,4 @@
 A daily newsletter for Ohio.
 
 Our Site Like:
-[Link](the-columbus-chronicle.pages.dev)
+[Link](https://the-columbus-chronicle.pages.dev/)
